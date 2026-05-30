@@ -173,8 +173,6 @@ Contributions, suggestions, and improvements are welcome.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Developed By
 
 **Vaishnavi Padmashali**
-
-Developed as a Computer Vision and Human-Computer Interaction project using Python, OpenCV, and MediaPipe.
