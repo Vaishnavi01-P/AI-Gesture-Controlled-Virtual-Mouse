@@ -161,18 +161,6 @@ Through this project, I gained practical experience in:
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots or GIF demonstrations here to showcase the application in action.
-
-Example:
-
-```markdown
-![Demo Screenshot](images/demo.png)
-```
-
----
-
 ## 🤝 Contributing
 
 Contributions, suggestions, and improvements are welcome.
@@ -185,12 +173,8 @@ Contributions, suggestions, and improvements are welcome.
 
 ---
 
-## 📄 License
+## 👨‍💻 Author
 
-This project is intended for educational and learning purposes.
-
----
-
-## 👩‍💻 Author
+**Vaishnavi Padmashali**
 
 Developed as a Computer Vision and Human-Computer Interaction project using Python, OpenCV, and MediaPipe.
