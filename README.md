@@ -1,4 +1,4 @@
-# AI Gesture-Controlled Virtual Mouse Using OpenCV & MediaPipe
+# AI-Driven-Hand-Gesture-Recognition-Virtual-Mouse
 
 A computer vision-based virtual mouse system that enables touchless cursor control using real-time hand gesture recognition. Built with OpenCV, MediaPipe, and Python, this project allows users to interact with their computers without a physical mouse.
 
